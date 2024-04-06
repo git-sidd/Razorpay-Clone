@@ -1,0 +1,77 @@
+ <nav class="bg-deepBlue">
+        <div class="relative flex w-[1080px] mx-auto items-center  justify-between  ">
+            <a href="/" class="cursor-pointer py-7 pr-7 ">
+                <img src="images/logo.jpg " width="125px" height="30px">
+
+
+
+            </a>
+            <ul class="flex space-x-6">
+                <li
+                    class="cursor-pointer font-mullish py-7 text-white relative hover:text-lightBlue transition-all duration-200 group ">
+                    <a href="#">Payments</a>
+                    <div
+                        class="absolute bottom-0 w-full h-1 bg-lightBlue hidden group-hover:block duration-200 transition-all">
+
+                    </div>
+                </li>
+                <li
+                    class="cursor-pointer font-mullish py-7 text-white relative hover:text-lightBlue transition-all duration-200 group ">
+                    <a href="#">Banking+</a>
+                    <div
+                        class="absolute bottom-0 w-full h-1 bg-lightBlue hidden group-hover:block duration-200 transition-all">
+
+                    </div>
+                </li>
+                <li
+                    class="cursor-pointer font-mullish py-7 text-white relative hover:text-lightBlue transition-all duration-200 group ">
+                    <a href="#">Payroll</a>
+
+                </li>
+                <li
+                    class="cursor-pointer font-mullish py-7 text-white relative hover:text-lightBlue transition-all duration-200 group ">
+                    <a href="#">Partners</a>
+
+                </li>
+                <li
+                    class="cursor-pointer font-mullish py-7 text-white relative hover:text-lightBlue transition-all duration-200 group ">
+                    <a href="#">Resources</a>
+                    <div
+                        class="absolute bottom-0 w-full h-1 bg-lightBlue hidden group-hover:block duration-200 transition-all">
+
+                    </div>
+                </li>
+                <li
+                    class="cursor-pointer font-mullish py-7 text-white relative hover:text-lightBlue transition-all duration-200 group ">
+                    <a href="#">Support</a>
+                    <div
+                        class="absolute bottom-0 w-full h-1 bg-lightBlue hidden group-hover:block duration-200 transition-all">
+
+                    </div>
+                </li>
+                <li
+                    class="cursor-pointer font-mullish py-7 text-white relative hover:text-lightBlue transition-all duration-200 group ">
+                    <a href="#">Pricing</a>
+                    <div
+                        class="absolute bottom-0 w-full h-1 bg-lightBlue hidden group-hover:block duration-200 transition-all">
+
+                    </div>
+                </li>
+
+                           
+            </ul>
+            <div class="flex space-x-6">
+                <img src="images/ind.webp" class="w-6 h-6 my-4">
+
+                <a href="#"><button
+                        class="text-white font-bold px-4 py-2 border text-sm  font-mullish border-lightBlue hover:scale-125 shadow-lg ">Log
+                        in</button></a>
+
+                <a href="#" class="pr-20"><button
+                        class="bg-white text-lightBlue font-bold px-4 py-2 border text-sm  font-mullish border-white hover:bg-lightBlue hover:text-white hover:border-lightBlue ">Sign
+                        Up</button></a>
+            </div>
+        </div>
+
+
+    </nav>
